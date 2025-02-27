@@ -46,6 +46,7 @@ Define survival groups using the median survival time to split patients into hig
 Split the data into training & test sets (80% train, 20% test). 
 Train a Logistic Regression model and a Support Vector Machine (SVM) classifier to predict survival groups. 
 Compare model performance using accuracy, precision, recall, F1-score. 
+
 4. Conclusion and Interpretation 
 
 Identify key genes associated with survival in OSC. 
